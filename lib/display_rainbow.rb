@@ -3,5 +3,6 @@
 #display_rainbow should print the colors of the rainbow in the format provided: "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
 #It should accept an array containing the colors as an argument
 
-def display_rainbow
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+def display_rainbow(colors)
 end
